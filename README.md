@@ -110,7 +110,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTRIBUTING -->
 
-## Contributing ♥️
+## Contributing 💬
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
