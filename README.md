@@ -20,7 +20,7 @@
     <a href="https://github.com/GiovanniBaccichet"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GiovanniBaccichet">Author 👨🏻‍💻</a>
+    <a href="https://github.com/GiovanniBaccichet">My Profile 👨🏻‍💻</a>
     |
     <a href="https://github.com/GiovanniBaccichet/R-E-P-O/issues">Report Bug 🐛</a>
     |
