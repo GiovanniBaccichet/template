@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/GiovanniBaccichet">
+  <a href="https://github.com/GiovanniBaccichet/template">
     <img src="imgs/Trophy_perspective_matte.png" alt="Logo" width="170">
   </a>
 
